@@ -1,101 +1,58 @@
 
-# Intro
+# 簡介
 
-I am a co-founder and the CTO of [Arthena](https://arthena.com) where I build tools to price fine art quickly, accurately, and at scale. I also advise startups, and I invest in people and ideas through a [small venture fund](https://skepticalinvestments.biz). I am particularly interested in projects that touch health and safety, imaging, social impact, and aerospace. If you think I can be helpful to you or would like to meet me, please feel free to get in touch.
+自稱Laravel全端工程師，可以稱我Ryan，台南人
+現任職金智洋擔任全端工程師，曾任職於新竹工研院-服科部約半年、酷必資訊一年，
+大部分都是自學，包括Laravel、Ionic、Python，個性問題，
+比起抄寫別人的Code更喜歡直接複製過來改寫，理解比較快；
+比起照著教學一步一步更喜歡參考多方資料、文件；
+比起一成不變的碼農，更喜歡創造酷、易讀、可再利用的程式！
 
-# Currently
+# 目前
 
-At Arthena, I have learned how to build teams, manage people, shape culture, develop relationships with customers, sell enterprise products, and build on-line predictive models with technologies like [Dask](https://dask.org/), [Dagster](https://dagster.io/), [TensorFlow](https://www.tensorflow.org/), and [spaCy](https://spacy.io/). I primarily work as a data engineer but have broad experience across Arthena’s stack.
+在台南的金智洋擔任全端工程師，雖然不是Laravel，而是Wordrpess，但我正在用過去的經驗來改善、幫助我的團隊創造更好的開發環境，
+包括但不限於：引入git flow觀念、低耦合、高內聚的程式開發、優化效能等，
+在閒暇之餘也會關注Laravel的一些動態、技術文章(不限於Laravel)；並充實自己的作品(此網站即是其中之一)
 
-# Some history
+# 小故事
 
-- My parents put a computer in my bedroom in 1993 when I was 3. It was an old Tandy that ran MS-DOS. My favorite games were Street Rod 2, Wolfenstein 3D, and Tom and Jerry. It had a mechanical keyboard and a turbo button. To this day, I still don't know what pressing the turbo button really did.
+- 小時候能接觸到電腦的時候幾乎都是在網咖，清楚記得國中的時候第一次利用Cheat Engine修改網頁遊戲，
+那時甚至不知道二進制、十六進制
+- 直到國三才終於有一台自己的電腦，感覺很奇特，明明已經非常熟悉怎麼操作了，但一直以來都沒有擁有過
+- 高三的專題比賽，組隊寫了一個網頁手機遊戲(當時的技術僅用Android Studio+H5+PHP..):書海冒險，得了全國第三名
+- 大學的時候慢慢感受到自由、故事也比較多一些，第一、二年在學業、打工、玩樂渾渾噩噩度過，還被32過一學期
+- 大三振作起來，一邊上超商的大夜班(真的是22:30~07:20，每週五天的那種)、一邊學業也沒有荒廢(不只All pass，還拿了不少A)、
+一邊準備考多益(考的當天是星期六早上九點，那天是上完夜班才去考，最後拿到了650分，至少我覺得我是沒有狀態不佳)，
+大三快結束的時候，辭了超商，準備暑假到馬來西亞參加暑期實習計畫；
+- 大四上學期準備畢業的事情，下學期就到新竹工研院參加實習計畫，領完畢業證書還多待了兩個月(三月初~八月底)的計畫，
+在這計畫認識了同齡、非同齡來自不同大學、研究所的人、包括計畫主管，大家都像同學一樣，下班也會一起打羽球、出去玩，
+第一次接觸到Laravel、樹莓派..，合作完成了一項專案、報告、交接
+計畫結束又留下來，但有些人並沒有留下，多少有些寂寞地到了隔年的一月底
+- 之後很高興能加入到台中酷必資訊，處理COACH TW、COACH JP、Kate Spade JP的大型Line解決方案，使用人數十萬量級，
+裡面的人也很酷，上司很親人，技術也有，度過了充實的一年，但因為身體因素、疫情考量回到了老家台南
 
-- We subscribed to AOL in 1995. I still remember installing it from a floppy disk onto our brand new Packard Bell. It took years for me to send my first email.
+# 興趣
 
-- In the summer of 1996, my uncle purchased [MegaRace](https://en.wikipedia.org/wiki/MegaRace) from [Media Play](https://en.wikipedia.org/wiki/Media_Play) and installed it on my mom's work computer. I might have endangered her business by using her computer too much.
+- 機械鍵盤
+- 遊戲
+- 直播(看和開)
+- 部落格，紀錄生活、分享技術(煩惱該怎麼更好的展現中)
+- 邏輯思考
+- <strike>錢</strike>
 
-- At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
+# 夢想
 
-- At 8, my parents bought me a Sony Mavica MVC-FD71 digital camera after I stole their SLR one too many times. It could fit 10 images to a floppy disk at a 0.3MP resolution. I still have it and it still works. I've been taking photographs ever since, now with a Nikon D750, D800, and occasionally with a Mamiya 6II.
+- 財富自由
+- 和一群志同道合的人做一樣事物，獲得成就、認同感
+- 完成自己想做的一樣事物從計畫到發行
 
-- At 10, I built my first website with Microsoft FrontPage on our Pentium III [Gateway](https://en.wikipedia.org/wiki/Gateway,_Inc.). My website was terrible.
+# 到哪一遊
 
-- I was 11 when I built my first [Tesla Coil](https://en.wikipedia.org/wiki/Tesla_coil) (without the permission of my parents). Over the next few years, I built several more including one of the first audio modulated coils and one of the first DRSSTCs.
+- 唯一一次出國到馬來西亞實習: 兩個月，吉隆坡、雙子星超酷，在裡面會迷路；肉骨茶必吃、麥當勞的冰炫風超便宜(2塊馬幣有找，當時不到20塊台幣)，有機會一定再去
+- 新竹: 工研院實習的時候住了一年，巨城、第一次到喝到掛的酒吧，其他...摁...很養生XD
+- 台中: 意外租到價格不錯又離火車站很近的，偶爾下班會到學校跑跑步，公車和gogoro很多的城市...還有很多說不完
 
-- When I was 12, I set the all-time high record at my local laser tag facility by reverse engineering the charging station and weapon protocols with a photo-resistor, micro-cassette recorder, and a lot of patience. I was unstoppable.
+# 友情連結
 
-- At 13, I went to space camp and fell in love. I went back two more times and promised myself that I'd work in space. I've since helped build three generations of satellites and have contributed to two more.
+- [MICHAEL D'ANGELO](https://mldangelo.com/)
 
-- At 14, I was almost expelled for finding a backdoor into my high school's file server and telling everyone but the faculty members about it. Later that year, I figured out how to turn off the internet firewall by editing system registry keys. I anonymously shared my work months later.
-
-- At 16, I participated in a foreign exchange program in Dortmund, Germany. Since then, I've gone back almost every year.
-
-- 14 - 17, I played a lot of video games. My favorites included Counter Strike Source, Command and Conquer 3, Halo 2, and Age of Empires II.
-
-- At 18, In the summer before college, my friends and I started playing [Muggle Quidditch](https://en.wikipedia.org/wiki/Quidditch_(sport)). We went on to start over 8 teams in the [International Quidditch Association](https://en.wikipedia.org/wiki/International_Quidditch_Association) including the [Buffalo Quidditch Society](https://www.facebook.com/buffaloquidditch/). At our height, we were ranked third in the IQA. Although I don't play anymore, you can still see pictures of me holding a broom while wearing a chess camp t-shirt on facebook.
-
-- At 19, I took my first graduate course and published my first academic paper.
-
-- At 20, I co-authored a grant to build a satellite and managed a 60+ person team for the next two years. You can read more about that [here](https://ubnl.space/glados/).
-
-Ask me in person for other stories that I'm afraid to share with the internet.
-
-# I like
-
-- Running
-- Skiing
-- Sailing and the sea
-- Space
-- Summer
-- [Books](https://www.goodreads.com/mdangelo)
-- Colored pencils ([Faber-Castell Polychromos](https://www.faber-castell.com/products/art-and-graphic/polychromos))
-- Podcasts ([The Daily](https://www.nytimes.com/column/the-daily), [Planet Money](https://www.npr.org/sections/money/), [The Indicator](https://www.npr.org/podcasts/510325/the-indicator-from-planet-money), [This American Life](https://www.thisamericanlife.org/), [99% Invisible](https://99percentinvisible.org/episodes/), [The Economist](http://radio.economist.com/), [Radiolab](https://www.wnycstudios.org/shows/radiolab), [Hidden Brain](https://www.npr.org/series/423302056/hidden-brain), [Inquiring Minds](https://inquiring.show), and others)
-- [Good design](/)
-- [Photography](https://instagram.com/dangelosaurus)
-
-# Travel / Geography
-
-- I am from originally from Buffalo, New York. I have since lived in Palo Alto, Mountain View, San Francisco, Seattle, and New York.
-- I've been to ~ 50 countries, some of which I have forgotten, and many of which I would like to revisit.
-- In 2016, I visited: Canada, Ethiopia, Austria, Germany, Belgium, Ireland, Northern Ireland, Italy, Romania, Sweden, Norway, Svalbard, Panama, Costa Rica, Uganda, Japan, and the UAE, mostly in that order.
-- In 2017, I visited: Canada, Japan, Denmark, Germany, Sweden, Estonia, Russia, the Netherlands, Belgium, the U.K., Spain, Iceland, France, Switzerland, Ethiopia, and Luxembourg.
-- In 2018, I visited: Canada, France, Italy, Israel, and the U.K.
-- In 2019, I visited: Canada, England, France, and Switzerland.
-- In 2020, I barely traveled 20 blocks. I stayed in New York and remodeled an apartment.
-- In 2021, I hope to start traveling again.
-- I am an Oregon Trail II enthusiast.
-
-# Fun facts
-
-- I have a list of thousands of ideas, like creating matching bow ties for cats and humans.
-- I almost always have a sketchbook with me and a [01 Sakura Pigma Micron Pen](https://www.sakuraofamerica.com/product/pigma-micron/).
-- I can't locate every country on a map.
-- I operate a [small angel fund](http://skepticalinvestments.biz/) with terrible returns.
-- I break about 30 traffic laws on a [cruiser](https://landyachtz.com/boards/cruiser/), [onewheel](https://onewheel.com/products/xr), [bicycle](https://www.citibikenyc.com/), or [electric skateboard](https://boostedusa.com/collections/electric-skateboards/products/boosted-mini-x) every single day.
-- I added this page because so many people complained that my site was just my resume.
-
-# I dream of
-
-- always finding inspiration.
-- enabling a brighter future.
-- doing better.
-- you not checking the commit history for earlier drafts of this file.
-
-# Websites from people I admire
-
-- [Alex Peysakhovich](http://alexpeys.github.io/)
-- [Chris Lengerich](http://www.chrislengerich.com/)
-- [Chris Saad](https://www.chrissaad.com/)
-- [Duncan Tomlin](http://duncantomlin.com/)
-- [Hawley Moore](http://hawleymoore.com/)
-- [Holman Gao](https://golmansax.com/)
-- [Ian Webster](http://ianww.com/)
-- [Johanna Flato](https://www.johannaflato.com/)
-- [Judy Mou](http://www.judymou.com/)
-- [Kristina Monakhova](https://kristinamonakhova.com/)
-- [Noah Trueblood](http://notrueblood.com/)
-- [Ruoxi Wang](http://ruoxiw.com/)
-- [Tom Sachs](https://www.tomsachs.org/)
-
-If we are friends and you feel like you belong on this list, you're probably right. I'm sorry I forgot about you. Pester me and I'll add you.

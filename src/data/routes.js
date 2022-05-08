@@ -1,29 +1,29 @@
 const routes = [
   {
     index: true,
-    label: "Michael D'Angelo",
+    label: 'Ryan Wu',
     path: '/',
   },
   {
-    label: 'About',
+    label: '關於我',
     path: '/about',
   },
   {
-    label: 'Resume',
+    label: '履歷',
     path: '/resume',
   },
+  // {
+  //   label: 'Projects',
+  //   path: '/projects',
+  // },
   {
-    label: 'Projects',
-    path: '/projects',
-  },
-  {
-    label: 'Stats',
+    label: '資訊',
     path: '/stats',
   },
-  {
-    label: 'Contact',
-    path: '/contact',
-  },
+  // {
+  //   label: 'Contact',
+  //   path: '/contact',
+  // },
 ];
 
 export default routes;
