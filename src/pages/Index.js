@@ -5,27 +5,23 @@ import Main from '../layouts/Main';
 
 const Index = () => (
   <Main
-    description={"Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
+    description={"Ryan Wu's personal website. New York based Stanford ICME graduate, "
     + 'co-founder and CTO of Arthena, and YC Alumni.'}
   >
     <article className="post" id="index">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
+          <h2 data-testid="heading"><Link to="/">關於此站</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            簡單介紹我，帶領你進入我的世界
           </p>
         </div>
       </header>
-      <p> Welcome to my website. Please feel free to read more <Link to="/about">about me</Link>,
-        or you can check out my {' '}
-        <Link to="/resume">resume</Link>, {' '}
-        <Link to="/projects">projects</Link>, {' '}
-        view <Link to="/stats">site statistics</Link>, {' '}
-        or <Link to="/contact">contact</Link> me.
+      <p>歡迎來到我的網站，可以通過 <Link to="/about">關於我</Link>, 了解更多
+        或者你想找 <Link to="/project">作品集</Link>
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
+      <p>此網站是開源 :<a href="https://github.com/love99067333/personal-site-react">在此</a></p>
+      <p>關於我Laravel :<a href="https://larademo.onrender.com" target="_blank" rel="noreferrer">練習</a></p>
     </article>
   </Main>
 );
