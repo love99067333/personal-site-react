@@ -17,9 +17,7 @@ const Index = () => (
           </p>
         </div>
       </header>
-      <p>歡迎來到我的網站，可以通過 <Link to="/about">關於我</Link>, 了解更多
-        或者你想找 <Link to="/project">作品集</Link>
-      </p>
+      <p>歡迎來到我的網站，可以先 <Link to="/about">認識我</Link></p>
       <p>此網站是開源 :<a href="https://github.com/love99067333/personal-site-react">在此</a></p>
       <p>關於我Laravel :<a href="https://larademo.onrender.com" target="_blank" rel="noreferrer">練習</a></p>
     </article>
