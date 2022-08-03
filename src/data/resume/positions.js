@@ -1,9 +1,18 @@
 const positions = [
   {
+    company: 'IT - American (菲律賓WFH)',
+    position: 'PHP Develope',
+    link: '#',
+    daterange: '2022/07 - 在職中',
+    points: [
+      'Laravel、Lumen開發、維護',
+    ],
+  },
+  {
     company: '金智洋科技股份有限公司',
     position: '全端工程師 ',
     link: 'http://sapido.com.tw/',
-    daterange: '2022/03 - 仍在職',
+    daterange: '2022/03 - 2022/06/30',
     points: [
       'Wordpress網站、外掛開發',
       '壓力測試、優化',
