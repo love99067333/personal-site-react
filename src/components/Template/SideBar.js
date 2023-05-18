@@ -9,7 +9,7 @@ const SideBar = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
+        <img src={`${PUBLIC_URL}/images/photo.jpg`} alt="" />
       </Link>
       <header>
         <h2>Ryan Wu</h2>
@@ -26,6 +26,8 @@ const SideBar = () => (
         曾任職於：
       </p>
       <ul>
+        <li> <a href="/">IT American</a> </li>
+        <li> <a href="https://www.sapido.com.tw/" target="_blank" rel="noreferrer">金智洋科技股份有限公司</a> </li>
         <li> <a href="https://www.itri.org.tw/" target="_blank" rel="noreferrer">工業技術研究院</a> </li>
         <li> <a href="https://www.coolbe.com.tw/" target="_blank" rel="noreferrer">酷必資訊</a> </li>
       </ul>

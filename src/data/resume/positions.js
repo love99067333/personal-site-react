@@ -1,11 +1,12 @@
 const positions = [
   {
-    company: 'IT - American (菲律賓WFH)',
+    company: 'IT - American (外商WFH)',
     position: 'PHP Develope',
     link: '#',
     daterange: '2022/07 - 在職中',
     points: [
-      'Laravel、Lumen開發、維護',
+      'Laravel、Lumen開發、維護後台',
+      'Vue、React前端開發',
     ],
   },
   {
