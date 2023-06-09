@@ -21,4 +21,4 @@ npm run start
 
 參考我的[文章](https://ryantechweb.blogspot.com/2022/05/deploy-react-on-render-in-10-minutes.html)
 
-
+只要部屬成功後，以後針對你選擇的分支自動CI/CD
