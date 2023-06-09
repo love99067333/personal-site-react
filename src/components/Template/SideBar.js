@@ -31,6 +31,15 @@ const SideBar = () => (
         <li> <a href="https://www.itri.org.tw/" target="_blank" rel="noreferrer">工業技術研究院</a> </li>
         <li> <a href="https://www.coolbe.com.tw/" target="_blank" rel="noreferrer">酷必資訊</a> </li>
       </ul>
+      <p>
+        Skill
+      </p>
+      <ul>
+        <li> PHP, Laravel - 約三年經驗 </li>
+        <li> Vue, React - 約三年經驗</li>
+        <li> git/ git flow </li>
+        <li> others: 第三方API、Linux、Nosql、Docker、資安... 更多請參考以下</li>
+      </ul>
       <ul className="actions">
         <li>
           {!window.location.pathname.includes('/resume') ? <Link to="/resume" className="button">Learn More</Link> : <Link to="/about" className="button">About Me</Link>}

@@ -19,7 +19,6 @@ const Index = () => (
       </header>
       <p>歡迎來到我的網站，可以先 <Link to="/about">認識我</Link></p>
       <p>此網站是開源 :<a href="https://github.com/love99067333/personal-site-react">在此</a></p>
-      <p>PS:本網站目前沒有一個字、一行Code使用ChatGPT</p>
     </article>
   </Main>
 );
