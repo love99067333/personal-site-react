@@ -9,7 +9,7 @@ const skills = [
   },
   {
     title: 'Ionic',
-    competency: 4,
+    competency: 3,
     category: ['Web Development', 'Framework', 'Javascript'],
   },
   {
@@ -24,12 +24,12 @@ const skills = [
   },
   {
     title: 'React',
-    competency: 1,
+    competency: 3,
     category: ['Web Development', 'Javascript'],
   },
   {
     title: 'Vue',
-    competency: 2,
+    competency: 4,
     category: ['Web Development', 'Javascript'],
   },
   {
