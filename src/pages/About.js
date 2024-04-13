@@ -1,42 +1,41 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import ReactMarkdown from 'react-markdown';
-import raw from 'raw.macro';
+import Markdown from 'markdown-to-jsx';
 
 import Main from '../layouts/Main';
 
-// uses babel to load contents of file
-const markdown = raw('../data/about.md');
+const About = () => {
+  const [markdown, setMarkdown] = useState('');
 
-// const count = markdown.split(/\s+/)
-//   .map((s) => s.replace(/\W/g, ''))
-//   .filter((s) => s.length).length;
-const count = markdown.length;
+  useEffect(() => {
+    import('../data/about.md')
+      .then((res) => {
+        fetch(res.default)
+          .then((r) => r.text())
+          .then(setMarkdown);
+      });
+  });
 
-// Make all hrefs react router links
-const LinkRenderer = ({ ...children }) => <Link {...children} />;
+  const count = markdown.length;
 
-const About = () => (
-  <Main
-    title="關於"
-    description="Learn about Ryan Wu"
-  >
-    <article className="post markdown" id="about">
-      <header>
-        <div className="title">
-          <h2 data-testid="heading"><Link to="/about">關於我</Link></h2>
-          <p>(in about {count} words)</p>
-        </div>
-      </header>
-      <ReactMarkdown
-        source={markdown}
-        renderers={{
-          Link: LinkRenderer,
-        }}
-        escapeHtml={false}
-      />
-    </article>
-  </Main>
-);
+  return (
+    <Main
+      title="About"
+      description="Learn about Michael D'Angelo"
+    >
+      <article className="post markdown" id="about">
+        <header>
+          <div className="title">
+            <h2><Link to="/about">關於我</Link></h2>
+            <p>(in about {count} words)</p>
+          </div>
+        </header>
+        <Markdown>
+          {markdown}
+        </Markdown>
+      </article>
+    </Main>
+  );
+};
 
 export default About;
